@@ -1,0 +1,15 @@
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.csproj.AssemblyReference.cache
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.AssemblyInfoInputs.cache
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.AssemblyInfo.cs
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\bin\Debug\net6.0\CaesarCipherAlgorithm.exe
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\bin\Debug\net6.0\CaesarCipherAlgorithm.deps.json
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\bin\Debug\net6.0\CaesarCipherAlgorithm.runtimeconfig.json
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\bin\Debug\net6.0\CaesarCipherAlgorithm.dll
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\bin\Debug\net6.0\ref\CaesarCipherAlgorithm.dll
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\bin\Debug\net6.0\CaesarCipherAlgorithm.pdb
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.dll
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\ref\CaesarCipherAlgorithm.dll
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.pdb
+C:\Users\basc1\source\repos\Def404\CaesarCipherAlgorithm\CaesarCipherAlgorithm\CaesarCipherAlgorithm\obj\Debug\net6.0\CaesarCipherAlgorithm.genruntimeconfig.cache
